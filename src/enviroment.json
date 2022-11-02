@@ -1,0 +1,11 @@
+{
+    "local": {
+        "BASE_URL": "http://[::1]:8080/api/v1"
+    },
+    "testing": {
+        "BASE_URL": "https://testing.com/api/v1"
+    },
+    "production": {
+        "BASE_URL": "https://production/api/v1"
+    }
+}
